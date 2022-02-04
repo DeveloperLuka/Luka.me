@@ -2,8 +2,7 @@
 A Simple C++ Autoclicker.
 
 # How to use
-Just download the source and there should be an exe file compiled somewhere,
-it is also possible that you just compile it yourself. Use Visual Studio 2019 if you want to do that.
+Download the Clicker binary, Or you will have to download cryptopp and add it to the project(because github is gay and won't let me files), you will have to use VS22.
 
 # Meant for Fabi.me users
 ![Home Gui](./docs/images/gui_main.png)
